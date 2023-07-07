@@ -1,5 +1,5 @@
-## h2 Vayid Calhaw
-## h3 Writing & Developing Portfolio
+## Vayid Calhaw
+## Writing & Developing Portfolio
 
 > I coded this website. It serves as a way to organize all my projects. They may include:
 >  - the in-progress development of the current game I've been developing, called "Nightfall's Gaze."
